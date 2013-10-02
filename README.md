@@ -7,7 +7,7 @@ burp-g2plugins
 
 2. [Add the Jython jar](http://www.burpextensions.com/tutorials/setting-up-the-pythonjython-environment-for-burp-suite/)
 
-# G2 Plugins - G2DetermineSessionCookie
+# G2DetermineSessionCookie
 Determine which cookie(s) are required to maintain the session.
 
 3. Start burp and use the Extensions tab to add the G2DetermineSessionCookie python file
