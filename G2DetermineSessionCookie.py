@@ -2,6 +2,8 @@
 G2DetermineSessionCookie
 
 :copyright: (c) 2013 by Garrett Held.
+May be freely distributed under the MIT license.
+See LICENSE file
 
 """
 
